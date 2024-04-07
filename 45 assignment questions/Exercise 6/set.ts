@@ -1,0 +1,7 @@
+let whitespace_name = "\n\t Abdul Saboor \t\n";
+
+console.log(whitespace_name);
+
+let withoutwhitespace_name = whitespace_name.trim();
+ 
+console.log(withoutwhitespace_name);
